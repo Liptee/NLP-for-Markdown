@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "4593f5bcedd49a4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ff5fffeca3e2a44",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AC2/Венеция/Сан-Заккария.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eac5ea871cd9a555",
+    "type": "split",
+    "children": [
+      {
+        "id": "6513af7358dcfc33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19ff855e47572779",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4353ceb5acc5dc9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1bcede1da84c519d",
+    "type": "split",
+    "children": [
+      {
+        "id": "905d7d830d001d38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "441e604ff6a1fb38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AC2/Венеция/Сан-Заккария.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1ff5fffeca3e2a44",
+  "lastOpenFiles": [
+    "AC2/Венеция/Сан-Заккария.md",
+    "AC2/Венеция/Сан-Джоббе.md",
+    "AC2/Венеция/Сан-Джакомо-ди-Риальто.md",
+    "AC2/Венеция/Площадь Сан-Тровазо.md",
+    "AC2/Венеция/Палаццо-Делла-Сета.md",
+    "AC2/Венеция/Мост Риальто.md",
+    "AC2/Венеция/Мастерская Леонардо в Венеции.md",
+    "AC2/Венеция/Мадонна-дель-Орто.md",
+    "AC2/Венеция/Ла-Роза-делла-Вирту.md",
+    "AC2/Венеция/Квартал Сан-Поло.md"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "7b09a46c869887cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "48f1b0687c589231",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aad93a7ad8875968",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba5f265e87ca4c8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "706444a2775bf7fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "632219c1de5f16ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c8e0bd94d0b45256",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5ca5efd6531045f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e934b8195e6df717",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "48f1b0687c589231",
+  "lastOpenFiles": [
+    "Венеция/Собор Св. Марка.md",
+    "Венеция/Дворец Дожей.md",
+    "Венеция/Квартал Дорзодуро.md",
+    "Венеция/Ла-Роза-делла-Вирту.md",
+    "Флоренция/Ла-Роза-Колта.md",
+    "Венеция/Санта-Мария-делла-Визитационе.md",
+    "Венеция/Площадь Сан-Тровазо.md",
+    "Венеция/Санта-Мария-деи-Кармини.md",
+    "Венеция/Квартал Кастелло.md",
+    "Венеция/Штаб генерала Бартоломео д,Альвиано.md"
+  ]
+}
