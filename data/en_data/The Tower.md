@@ -53,3 +53,24 @@ More recent coverage was given in London 3: North West, the revision to the Buil
 
 
 
+TEG FOUNDER:
+#CHELSEA
+#LONDON
+#GRADE
+#OXFORD
+#
+#GERMANY
+#BBC
+#FAME
+#£
+#DAVIDBOWIE
+#ROBBIEWILLIAMS
+#WILLIAMS
+#BRITAIN
+#EASTERN
+#TIME
+#LOVE
+#MERCURY
+#ROOM
+#JACK
+#SUN

@@ -79,3 +79,5 @@ As of 2016, vision processing units are emerging as a new class of processor, to
 
 
 
+TEG FOUNDER:
+#MARKOV

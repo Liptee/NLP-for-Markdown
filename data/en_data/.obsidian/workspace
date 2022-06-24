@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#�",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fe80d400f56966db",
@@ -84,15 +85,15 @@
   },
   "active": "66fd4a37ddc483f2",
   "lastOpenFiles": [
-    "Guinness World.md",
-    "Sir Richard.md",
-    "Korea.md",
-    "CERN.md",
-    "John Winston.md",
-    "Michael Joseph.md",
-    "Video tracking.md",
     "Ukraine.md",
-    "The Oxford.md",
-    "George Harrison[nb.md"
+    "Sir James.md",
+    "Russia.md",
+    "Parlophone Records.md",
+    "On 15.md",
+    "Michael Joseph.md",
+    "Maurizio Giuliano.md",
+    "Machine learning.md",
+    "Korea.md",
+    "John Winston.md"
   ]
 }

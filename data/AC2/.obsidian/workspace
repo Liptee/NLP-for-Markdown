@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Венеция/Квартал Сан-Поло.md",
+            "file": "Флоренция/Флоренция.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#PARSEWORDСАНТАМАРИЯНОВЕЛЛАTAGOPENCORPORATAGNOUNINANFEMNSINGNOMNNORMALFORMСАНТАМАРИЯНОВЕЛЛАSCOREMETHODSSTACKFAKEDICTIONARYСАНТАМАРИЯНОВЕЛЛАKNOWNSUFFIXANALYZERMINWORDLENGTHSCOREMULTIPLIERВЕЛЛА",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Венеция/Квартал Сан-Поло.md",
+                "file": "Флоренция/Флоренция.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "48f1b0687c589231",
   "lastOpenFiles": [
-    "Венеция/Квартал Сан-Поло.md",
-    "Венеция/Квартал Кастелло.md",
-    "Венеция/Штаб генерала Бартоломео д,Альвиано.md",
-    "Венеция/Торре-делл-Оролоджио.md",
-    "Венеция/Собор Св. Марка.md",
-    "Венеция/Скуола Сан-Марко.md",
-    "Венеция/Санти-Джованни-э-Паоло.md",
-    "Венеция/Санта-Мария-делла-Визитационе.md",
-    "Венеция/Санта-Мария-деи-Кармини.md",
-    "Венеция/Сан-Пьетро-ди-Кастелло.md"
+    "Флоренция/Флоренция.md",
+    "Флоренция/Санта-Тринита.md",
+    "Флоренция/Санта-Мария-Новелла.md",
+    "Флоренция/Санта-Мария-дель-Фьоре.md",
+    "Флоренция/Санта-Кроче.md",
+    "Флоренция/Сан-Лоренцо.md",
+    "Флоренция/Палаццо Питти.md",
+    "Флоренция/Палаццо Медичи.md",
+    "Флоренция/Палаццо Аудиторе.md",
+    "Флоренция/Оспедале-деи-Инноченти.md"
   ]
 }

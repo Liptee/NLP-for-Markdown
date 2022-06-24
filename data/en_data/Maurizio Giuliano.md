@@ -1,4 +1,3 @@
-
 Maurizio Giuliano (born 1975) is an Italian United Nations official, traveller, author and journalist. As of 2004 he was, according to the Guinness Book of World Records, the youngest person to have visited all sovereign nations of the world (aged 28 years and 361 days).[1][2][3] He has worked for various international organizations in the field of media relations.
 Giuliano is the son of a lawyer father and a housewife mother.[4] He has lived in Cuba, Chile and Indonesia.[4]
 After completing high school in Milan and in Manchester, he earned a degree from the University of Oxford in 1996[5] and a master's degree from the University of Cambridge in 1997.[5] At University College, Oxford,[6] he studied Philosophy, Politics, and Economics,[4] specialising in Latin America and eastern Europe.[7] While at Oxford, he was a member of the Oxford University L'Chaim Society.[8]
@@ -22,23 +21,18 @@ On 20 February 2004, he arrived in Suriname on a Brazilian airliner,[34] thereby
 He then travelled from Suriname to London, with 42 passports (30 Italian and 12 British) filled with immigration stamps, in order to prove his record with Guinness World Records.[7][111] He claimed that most of his travels were unrelated to the record, and that only since 2001, on the suggestion of friends, he had the Guinness Record in mind when planning his travels.[4] In explaining his record, however, he stated that he might be affected by an "addiction to crossing borders".[1]
 Collecting passport stamps as proof of travels was a major part of Giuliano's endeavour, and he describes being obsessed about his stamps, to the extent that he travelled with ink pads in five different colours so that he could assist immigration officers whose stamps may lack ink.[34]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+TEG FOUNDER:
+#MAURIZIOGIULIANO
+#UNITEDNATIONS
+#THEGUINNESSBOOKOFWORLDRECORDS
+#THEUNIVERSITYOFOXFORD
+#OXFORD
+#US
+#MIKHAILGORBACHEV
+#AUNGSANSUUKYI
+#NEWZEALAND
+#PATTERNS
+#UN
+#MORGAN
+#LONDON
+#GUINNESSWORLDRECORDS

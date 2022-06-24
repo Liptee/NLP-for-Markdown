@@ -42,3 +42,12 @@ Ukraine denounced the move as a "flagrant violation" of its territorial integrit
 
 
 
+TEG FOUNDER:
+#MOSCOW
+#KHERSON
+#UKRAINE
+#RUSSIA
+#VLADIMIRPUTIN
+#SOVIETUNION
+#KREMLIN
+#PUTIN

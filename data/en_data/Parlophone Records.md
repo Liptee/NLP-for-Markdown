@@ -1,21 +1,7 @@
-
 Parlophone Records Limited (also known as Parlophone Records and Parlophone) is a German–British record label founded in Germany in 1896 by the Carl Lindström Company as Parlophon. The British branch of the label was founded on 8 August 1923 as the Parlophone Company Limited (the Parlophone Co. Ltd.), which developed a reputation in the 1920s as a jazz record label. On 5 October 1926, the Columbia Graphophone Company acquired Parlophone's business, name, logo, and release library, and merged with the Gramophone Company on 31 March 1931 to become Electric & Musical Industries Limited (EMI). George Martin joined Parlophone in 1950 as assistant to Oscar Preuss (who had set up the London branch of the company in 1923), the label manager, taking over as manager in 1955. Martin produced and released a mix of recordings, including by comedian Peter Sellers, pianist Mrs Mills, and teen idol Adam Faith.
 In 1962, Martin signed the Beatles, a beat group from Liverpool who earlier that year had been rejected by Decca Records. During the 1960s, when Cilla Black, Billy J. Kramer, the Fourmost, and the Hollies also signed, Parlophone became one of the world's most famous labels. For several years, Parlophone claimed the best-selling UK single, "She Loves You", and the best-selling UK album, Sgt. Pepper's Lonely Hearts Club Band, both by the Beatles. The label placed seven singles at number 1 during 1964, when it claimed top spot on the UK Albums Chart for 40 weeks. Parlophone continued as a division of EMI until it was merged into the Gramophone Co. on 1 July 1965. On 1 July 1973, the Gramophone Co. was renamed EMI Records Limited.
 On 28 September 2012, regulators approved Universal Music Group's (UMG) planned acquisition of EMI on condition that its EMI Records group would be divested from the combined group. EMI Records Ltd included Parlophone (except the Beatles' catalogue) and other labels to be divested and were for a short time operated in a single entity known as the Parlophone Label Group (PLG), while UMG pended their sale. Warner Music Group (WMG) acquired Parlophone and [PLG] on 7 February 2013, making Parlophone their third flagship label alongside Warner and Atlantic. PLG was renamed Parlophone Records Limited in May 2013. Parlophone is the oldest of WMG's "flagship" record labels.
-Parlophone was founded "Parlophon" by Carl Lindström Company in 1896.[1] The name Parlophon was used for gramophones before the company began making records of their own. The label's ₤ trademark is a stylised blackletter L (
-
-
-
-
-
-L
-
-
-
-
-{\displaystyle {\mathfrak {L}}}
-
-) that stands for Lindström. (Its resemblance to the British pound sign £ and the Italian lira sign ₤ is coincidental: both derive from the letter L used as an abbreviation for the Ancient Roman unit of measurement libra.) On 8 August 1923, the British branch of "Parlophone" (with the "e" added) was established, led by A&R manager Oscar Preuss.[1] In its early years, Parlophone established itself as a leading jazz label in Britain.[2]
+Parlophone was founded "Parlophon" by Carl Lindström Company in 1896.[1] The name Parlophon was used for gramophones before the company began making records of their own. The label's ₤ trademark is a stylised blackletter L that stands for Lindström. (Its resemblance to the British pound sign £ and the Italian lira sign ₤ is coincidental: both derive from the letter L used as an abbreviation for the Ancient Roman unit of measurement libra.) On 8 August 1923, the British branch of "Parlophone" (with the "e" added) was established, led by A&R manager Oscar Preuss.[1] In its early years, Parlophone established itself as a leading jazz label in Britain.[2]
 In 1927, the Columbia Graphophone Company acquired a controlling interest in the Carl Lindström Company, including Parlophone.[1] Parlophone became a subsidiary of Electric & Musical Industries (EMI), after Columbia Graphophone merged with the Gramophone Company in 1931.[3]
 In 1950, Oscar Preuss hired producer George Martin as his assistant. When Preuss retired in 1955, Martin succeeded him as Parlophone's manager. Parlophone specialized in mainly classical music, cast recordings, and regional British music,[4] but Martin also expanded the reach into novelty and comedy records. A notable example was The Best of Sellers, a collection of sketches and comic songs by Peter Sellers undertaken in the guise of a variety of comic characters.[5] It reached number three in the UK Albums Chart in 1958.  Musicians signed to the label included Humphrey Lyttelton and the Vipers Skiffle Group.[6]
 A consistently successful act for Parlophone was teen idol Adam Faith, who was signed to the label in 1959.[7] The label gained significant popularity in 1962 when Martin signed Liverpool band the Beatles.[3] Parlophone gained more attention after signing the Hollies, Ella Fitzgerald, and Gerry and the Pacemakers in the 1960s.[8] Martin left EMI/Parlophone to form Associated Independent Recording (AIR) Studios in 1965.[9]
@@ -35,22 +21,29 @@ With the Beatles (side 1) – Parlophone yellow and black label
 West End Blues, British Parlophone record
 The labels shown here include those used for 78s and LPs. The label design for 7" singles had the same standard template as several other EMI labels, with the large "45" insignia to the right. In recent years, design uniformity has relaxed from release to release.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+TEG FOUNDER:
+#GERMANY
+#EMI
+#GEORGEMARTIN
+#LONDON
+#MARTIN
+#PETERSELLERS
+#BEATLES
+#LIVERPOOL
+#CILLABLACK
+#UK
+#SHELOVESYOU
+#SGT
+#PEPPERSLONELYHEARTSCLUBBAND
+#ROBBIEWILLIAMS
+#SPAIN
+#FRANCE
+#DENMARK
+#SLOVAKIA
+#SONYBMG
+#THEEUROPEANUNION
+#SONY
+#US
+#ATLANTICRECORDS
+#YELLOWSUBMARINE
+#APPLE

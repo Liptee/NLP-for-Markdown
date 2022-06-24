@@ -1,4 +1,3 @@
-
 Michael Joseph Jackson (August 29, 1958 – June 25, 2009) was an American singer, songwriter, and dancer. Dubbed the "King of Pop", he is regarded as one of the most significant cultural figures of the 20th century. Over a four-decade career, his contributions to music, dance, and fashion, along with his publicized personal life, made him a global figure in popular culture. Jackson influenced artists across many music genres; through stage and video performances, he popularized complicated dance moves such as the moonwalk, to which he gave the name, as well as the robot. He is the most awarded individual music artist in history.
 The eighth child of the Jackson family, Jackson made his professional debut in 1964 with his elder brothers Jackie, Tito, Jermaine, and Marlon as a member of the Jackson 5 (later known as the Jacksons). Jackson began his solo career in 1971 while at Motown Records. He became a solo star with his 1979 album Off the Wall. His music videos, including those for "Beat It", "Billie Jean", and "Thriller" from his 1982 album Thriller, are credited with breaking racial barriers and transforming the medium into an artform and promotional tool. He helped propel the success of MTV and continued to innovate with videos for the albums Bad (1987), Dangerous (1991), and HIStory: Past, Present and Future, Book I (1995). Thriller became the best-selling album of all time, while Bad was the first album to produce five U.S. Billboard Hot 100 number-one singles.[nb 1]
 From the late 1980s, Jackson became a figure of controversy and speculation due to his changing appearance, relationships, behavior, and lifestyle. In 1993, he was accused of sexually abusing the child of a family friend. The lawsuit was settled out of civil court; Jackson was not indicted due to lack of evidence. In 2005, he was tried and acquitted of further child sexual abuse allegations and several other charges. The FBI found no evidence of criminal conduct on Jackson's behalf in either case. In 2009, while preparing for a series of comeback concerts, This Is It, Jackson died from an overdose of propofol administered by his personal physician, Conrad Murray, who was convicted in 2011 of involuntary manslaughter.
@@ -110,8 +109,83 @@ He won hundreds of awards, more than any other popular music recording artist.[4
 In 1988, Fisk University honored him with an Honorary Doctorate of Humane Letters.[497] In 1992, he was invested as a titular king of Sanwi, a traditional kingdom located in the south-east of Ivory Coast.[498] In July 2009, the Lunar Republic Society named a crater on the Moon after Jackson.[499] In August, for what would have been Jackson's 51st birthday, Google dedicated their Google Doodle to him.[500] In 2014, the British Council of Cultural Relations deemed Jackson's life one of the 80 most important cultural moments of the 20th century.[501] World Vitiligo Day has been celebrated on June 25, the anniversary of Jackson's death, to raise awareness of the auto-immune disorder that Jackson suffered from.[502]
 In 1989, Jackson's annual earnings from album sales, endorsements, and concerts were estimated at $125 million.[220] Forbes placed Jackson's annual income at $35 million in 1996 and $20 million in 1997.[503] Estimates of Jackson's net worth during his life range from negative $285 million to positive $350 million for 2002, 2003 and 2007.[504][505] Forbes reported in August 2018 that Jackson's total career pretax earnings in life and death were $4.2 billion.[506][507] Sales of his recordings through Sony's music unit earned him an estimated $300 million in royalties. He may have earned another $400 million from concerts, music publishing (including his share of the Beatles catalog), endorsements, merchandising and music videos.[508]
 In 2013, the executors of Jackson's estate filed a petition in the United States Tax Court as a result of a dispute with the Internal Revenue Service (IRS) over US federal estate taxes.[509] The executors claim that it was worth about $7 million, the IRS that it was worth over $1.1 billion. In February 2014, the IRS reported that Jackson's estate owed $702 million; $505 million in taxes, and $197 million in penalties.[510] A trial was held from February 6 to 24, 2017.[511] In 2021, the Tax Court issued a ruling in favor of the estate, ruling that the estate's total combined value of the estate was $111.5 million and that the value of Jackson's name and likeness was $4 million (not the $61 million estimated by the IRS's outside expert witness).[512]
-In 2016, Forbes estimated annual gross earnings by the Jackson Estate at $825 million, the largest ever recorded for a celebrity, mostly due to the sale of the Sony/ATV catalog.[513] In 2018, the figure was $400 million.[514] It was the eighth year since his death that Jackson's annual earnings were reported to be over $100 million, thus bringing Jackson's postmortem total to $2.4 billion.[515] In 2020, Forbes recognized Jackson as the top-earning dead celebrity each year since his death except 2012.[516][517]
-
-
-
-
+In 2016, Forbes estimated annual gross earnings by the Jackson Estate at $825 million, the largest ever recorded for a celebrity, mostly due to the sale of the Sony/ATV catalog.[513] In 2018, the figure was $400 million.[514] It was the eighth year since his death that Jackson's annual earnings were reported to be over $100 million, thus bringing Jackson's postmortem total to $2.4 billion.[515] In 2020, Forbes recognized Jackson as the top-earning dead celebrity each year since his death except 2012.
+TEG FOUNDER:
+#JACKSON
+#US
+#FBI
+#�
+#RIAA
+#GUINNESSWORLDRECORDS
+#THEROCKANDROLLHALLOFFAME
+#RHYTHM
+#JOE
+#MICHAEL
+#TAYLOR
+#LOSANGELES
+#CAREER
+#NEWYORKCITY
+#QUINCYJONES
+#NEWYORK
+#MERCURY
+#MICKJAGGER
+#COPIES
+#NBC
+#ROLLINGSTONE
+#MIKALGILMORE
+#ELVISPRESLEYS
+#BEATLES
+#EDSULLIVAN
+#THENEWYORKTIMES
+#ANNUALGRAMMYAWARDS
+#ALBUM
+#TIME
+#MICHAELJACKSON
+#THEREAFTER
+#CALIFORNIA
+#SONY
+#USA
+#PAULMCCARTNEY
+#MCCARTNEY
+#AUSTRALIA
+#KLEIN
+#JAPAN
+#SUN
+#PARIS
+#COLUMBIARECORDS
+#UK
+#BILLCLINTONS
+#SUPERBOWL
+#ELVISPRESLEY
+#PRESLEY
+#PRINCE
+#GERMANY
+#KOREA
+#WASHINGTON
+#DC
+#BILLCLINTON
+#BUREAU
+#IRELAND
+#LONDON
+#LASVEGAS
+#JAMESBROWNS
+#TOKYO
+#THEGIRLISMINE
+#SONYBMG
+#WORLD
+#STEVIEWONDER
+#EMI
+#MONTREAL
+#NEWZEALAND
+#CANADA
+#NETHERLANDS
+#ROBERTCHRISTGAU
+#LITTLERICHARD
+#RICHARD
+#GUARDIAN
+#MOSCOW
+#WILLIAMS
+#CONGRESS
+#THEUNITEDSTATES
+#MOON
+#GOOGLE

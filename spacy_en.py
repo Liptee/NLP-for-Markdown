@@ -2,10 +2,16 @@ import spacy
 import os
 from glob import glob
 
-nlp = spacy_new.load('en_core_web_sm')
+nlp = spacy.load('en_core_web_sm')
 
 all_tegi = []
 final_tegi = []
+tmp = []
+
+positive_labels = ['GPE', 'PERSON', 'WORK_OF_ART', 'EVENT', 'ORG']
+neutral_labels = ['NORP', 'LOC', 'DATE', 'LAW', 'FAC', 'PRODUCT', 'LANGUAGE']
+ignore_labels = ['CARDINAL', 'ORDINAL', 'TIME', 'QUANTITY', 'MONEY', 'PERCENT']
+
 def load_data(path):
     X = glob(os.path.join(path, "*.md"))
     return X
@@ -20,40 +26,41 @@ def tag_deleter(file):
         F.writelines(f)
 
 def find_teg(doc):
+    local_tegi = []
     with open(doc, 'r+') as f:
         text = f.read()
+    text = nlp(text)
 
-    tegi = []
-    tmp = nlp(text)
-    for ent in tmp.ents:
-        tag="".join(c for c in ent.text if c.isalpha())
-        if tag not in tegi:
-            tegi.append(tag)
-        if tag in tegi and tag not in final_tegi:
-            final_tegi.append(tag)
+    for ent in text.ents:
+        if ent.label_ in positive_labels:
+            tag="".join(c for c in ent.text if c.isalpha())
+            tag = tag.upper()
+            if tag not in local_tegi:
+                local_tegi.append(tag)
+                if tag in all_tegi and tag not in final_tegi:
+                    final_tegi.append(tag)
+                if tag not in all_tegi:
+                    all_tegi.append(tag)                
+    tmp.append(local_tegi)
 
-def create_teg(doc):
-    with open(doc, 'r+') as f:
-        text = f.read()
-
-    tegi = []
-    tmp = nlp(text)
-    for ent in tmp.ents:
-        tag="".join(c for c in ent.text if c.isalpha())
-        if tag not in tegi and tag in final_tegi:
-            tegi.append(tag)
-
+def create_tag(doc, num):
     with open(doc, 'a') as f:
-        f.write('\n')
         f.write("TEG FOUNDER:")
-        for teg in tegi:
-            f.write('\n')
-            f.write(f"#{teg}")
+        for teg in tmp[num]:
+            if teg in final_tegi:
+                f.write('\n')
+                f.write(f"#{teg}")
 
-path = "data/en_data"
+path = 'data/en_data'
 for doc in load_data(path):
     print(doc)
     tag_deleter(doc)
     find_teg(doc)
+
+count = 0
 for doc in load_data(path):
-    create_teg(doc)
+    create_tag(doc, count)
+    count+=1
+
+# Все работает, но есть огромный кастыль в виде списка tmp
+# Его стоит грамотно перебросить в all_tegi

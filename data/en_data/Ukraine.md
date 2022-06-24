@@ -88,3 +88,24 @@ But speaking to British university students via video link, Zelensky said Friday
 
 
 
+TEG FOUNDER:
+#KHERSON
+#MOSCOW
+#
+#RUSSIA
+#AMERICA
+#UKRAINE
+#EMMANUELMACRON
+#FRANCE
+#MACRON
+#THEUNITEDSTATES
+#US
+#JOEBIDEN
+#SLOVAKIA
+#NATO
+#KREMLIN
+#GERMANY
+#UK
+#BRITAIN
+#VLADIMIRPUTIN
+#PUTIN

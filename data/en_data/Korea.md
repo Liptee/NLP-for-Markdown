@@ -24,30 +24,7 @@ Lee and Wei agreed that the operation of additional hotlines will “greatly con
   
 The opening of new hotlines is significant particularly in light of Chinese military aircraft’s continuing intrusion of South Korea’s air defense identification zone, a senior official at South Korea’s Defense Ministry, who wished to remain anonymous, said during a closed-door briefing in Singapore.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+TEG FOUNDER:
+#LEE
+#KOREA
+#CHINA
