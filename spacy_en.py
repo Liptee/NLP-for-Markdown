@@ -1,29 +1,13 @@
 import spacy
-import os
-from glob import glob
+from conf import *
+from funcs import load_data
+from funcs import tag_deleter
 
 nlp = spacy.load('en_core_web_sm')
 
 all_tegi = []
 final_tegi = []
 tmp = []
-
-positive_labels = ['GPE', 'PERSON', 'WORK_OF_ART', 'EVENT', 'ORG']
-neutral_labels = ['NORP', 'LOC', 'DATE', 'LAW', 'FAC', 'PRODUCT', 'LANGUAGE']
-ignore_labels = ['CARDINAL', 'ORDINAL', 'TIME', 'QUANTITY', 'MONEY', 'PERCENT']
-
-def load_data(path):
-    X = glob(os.path.join(path, "*.md"))
-    return X
-
-def tag_deleter(file):
-    f = open(file).readlines()
-    for l in range(len(f)-1, 0, -1):
-        if "TEG FOUNDER:" in f[l]:
-            for dl in range(len(f)-1, l-1, -1):
-                f.pop(dl)
-    with open(file, 'w') as F:
-        F.writelines(f)
 
 def find_teg(doc):
     local_tegi = []
@@ -42,16 +26,22 @@ def find_teg(doc):
                 if tag not in all_tegi:
                     all_tegi.append(tag)                
     tmp.append(local_tegi)
+    print(f"local_tegi:{len(local_tegi)}")
+    print(f"all_tegi:{len(all_tegi)}")
+    print(f"final_tegi:{len(final_tegi)}")
+    print(f"tmp:{len(tmp)}")
+    print()
 
 def create_tag(doc, num):
     with open(doc, 'a') as f:
+        f.write('\n')
         f.write("TEG FOUNDER:")
         for teg in tmp[num]:
             if teg in final_tegi:
                 f.write('\n')
                 f.write(f"#{teg}")
 
-path = 'data/en_data'
+path = 'data/en/en_data_spacy'
 for doc in load_data(path):
     print(doc)
     tag_deleter(doc)
@@ -61,6 +51,3 @@ count = 0
 for doc in load_data(path):
     create_tag(doc, count)
     count+=1
-
-# Все работает, но есть огромный кастыль в виде списка tmp
-# Его стоит грамотно перебросить в all_tegi

@@ -9,6 +9,7 @@ def extractHeader(string):
         return res
     except:
         print("Something wrong in extractHeader")
+        return False
 
 def wiki_saver(url):
     scrapped_data = urllib.request.urlopen(url)
@@ -21,10 +22,11 @@ def wiki_saver(url):
         article_text += p.text
 
     header = extractHeader(article_text)
-    path = f'data/{header}.md'
+    if header:
+        path = f'data/{header}.md'
 
-    with open(path, "w", encoding='utf-8') as f:
-        f.write(article_text)
+        with open(path, "w", encoding='utf-8') as f:
+            f.write(article_text)
 
 while True:
     url = input("Give me URL: ")
