@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "57ee09ce1d90d3e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "66fd4a37ddc483f2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Russia.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f74af7d6e5ed22f",
+    "type": "split",
+    "children": [
+      {
+        "id": "dea5912579e5d01c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b1fe5767efdcca2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0b81cad5964d93d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#CERN",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fe80d400f56966db",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca3cd960b1feb56c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e79a6c7b7a9d4c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Russia.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "66fd4a37ddc483f2",
+  "lastOpenFiles": [
+    "Russia.md",
+    "CERN.md",
+    "Video tracking.md",
+    "Ukraine.md",
+    "Sir Richard.md",
+    "Sir James.md",
+    "Machine learning.md",
+    "Maurizio Giuliano.md",
+    "Artificial intelligence.md",
+    "Korea.md"
+  ]
+}

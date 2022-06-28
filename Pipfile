@@ -12,6 +12,7 @@ urllib3 = "*"
 lxml = "*"
 spacy = "*"
 pymorphy2 = "*"
+pandas = "*"
 
 [dev-packages]
 
