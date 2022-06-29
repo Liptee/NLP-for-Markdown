@@ -2,6 +2,7 @@ import spacy
 import pymorphy2
 from conf import *
 from funcs import load_data
+from funcs import tag_deleter_ru
 
 morph = pymorphy2.MorphAnalyzer()
 nlp = spacy.load('ru_core_news_lg')
@@ -9,15 +10,6 @@ nlp = spacy.load('ru_core_news_lg')
 all_tegi = []
 final_tegi = []
 tmp = []
-
-def tag_deleter(file):
-    f = open(file, encoding='utf-8').readlines()
-    for l in range(len(f)-1, 0, -1):
-        if "TEG FOUNDER:" in f[l]:
-            for dl in range(len(f)-1, l-1, -1):
-                f.pop(dl)
-    with open(file, 'w') as F:
-        F.writelines(f)
 
 def find_teg(doc):
     local_tegi = []
@@ -51,10 +43,10 @@ def create_tag(doc, num):
                 f.write('\n')
                 f.write(f"#{teg}")
 
-path = 'data/ru/AC2\Флоренция'
+path = "data/ru/AC2\Флоренция"
 for doc in load_data(path):
     print(doc)
-    tag_deleter(doc)
+    tag_deleter_ru(doc)
     find_teg(doc)
 
 count = 0
