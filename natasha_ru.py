@@ -6,13 +6,15 @@ from natasha import (
     NewsNERTagger,
     NewsEmbedding,
     Segmenter,
-    MorphVocab
+    MorphVocab,
+    NewsMorphTagger
 )
 
-segmenter = Segmenter()
 emb = NewsEmbedding()
+segmenter = Segmenter()
 ner_tagger = NewsNERTagger(emb)
 morph_vocab = MorphVocab()
+morph_tagger = NewsMorphTagger(emb)
 
 all_tegi = []
 final_tegi = []
@@ -25,6 +27,7 @@ def find_teg(doc):
 
     doc = Doc(text)
     doc.segment(segmenter)
+    doc.tag_morph(morph_tagger)
     doc.tag_ner(ner_tagger)
     for span in doc.spans:
         span.normalize(morph_vocab)
