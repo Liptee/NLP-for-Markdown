@@ -47,6 +47,14 @@ A renewed understanding and appreciation of the building, and of Burges himself,
 
 
 
+
+
+
+
+
+
+
+
 TEG FOUNDER:
 #CHELSEA
 #LONDON
@@ -56,9 +64,7 @@ TEG FOUNDER:
 #GERMANY
 #BBC
 #FAME
-#£
-#DAVIDBOWIE
-#ROBBIEWILLIAMS
+#DAVID_BOWIE
 #WILLIAMS
 #BRITAIN
 #EASTERN

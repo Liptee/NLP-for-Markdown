@@ -6,15 +6,7 @@ That first version of HTTP protocol soon evolved into a more elaborated version 
 
 
 
-
-
-
-
-
-
-
-
-
 TEG FOUNDER:
+#HYPERTEXT_TRANSFER
 #HTTP
 #CERN

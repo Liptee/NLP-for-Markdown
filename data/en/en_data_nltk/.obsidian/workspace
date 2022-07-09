@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Russia.md",
+            "file": "Video tracking.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CERN",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,13 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fe80d400f56966db",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Russia.md",
+                "file": "Video tracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,15 +89,15 @@
   },
   "active": "66fd4a37ddc483f2",
   "lastOpenFiles": [
-    "Russia.md",
-    "CERN.md",
     "Video tracking.md",
-    "Ukraine.md",
+    "On 15.md",
     "Sir Richard.md",
+    "John Winston.md",
+    "Ukraine.md",
+    "Tim Berners-Lee.md",
+    "The Tower.md",
+    "The Oxford.md",
     "Sir James.md",
-    "Machine learning.md",
-    "Maurizio Giuliano.md",
-    "Artificial intelligence.md",
-    "Korea.md"
+    "Russia.md"
   ]
 }

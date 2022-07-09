@@ -2,18 +2,3 @@ The European Organization for Nuclear Rresearch, known as CERN, is a European re
 
 The acronym CERN is also used to refer to the labaratory, which in 2019 had 2,660 scientific, technical, and administrative stuff members, and hosted about 12,400 users from institutions is more than 70 countries. In 2016 CERN generated 49 petabytes of data.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TEG FOUNDER:

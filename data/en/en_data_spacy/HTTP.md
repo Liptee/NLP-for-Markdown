@@ -4,18 +4,3 @@ Development of HTTP was initiated by Tim Berners-Lee at CERN in 1989 and summari
 
 That first version of HTTP protocol soon evolved into a more elaborated version that was the first draft toward a far future version 1.0.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-TEG FOUNDER:

@@ -99,12 +99,21 @@ Embedded Machine Learning is a sub-field of machine learning, where the machine 
 
 
 
+
+
+
+
+
+
+
+
+
 TEG FOUNDER:
 #ML
 #IBM
 #INTELLIGENCE
 #NILSSON
-#ALANTURING
+#ALAN_TURING
 #AI
 #PATTERNS
 #MARKOV
@@ -117,5 +126,5 @@ TEG FOUNDER:
 #GOOGLE
 #TWITTER
 #UK
-#THEUNITEDSTATES
+#THE_UNITED_STATES
 #OPENAI

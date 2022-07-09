@@ -3,10 +3,10 @@ Giuliano is the son of a lawyer father and a housewife mother.[4] He has lived i
 After completing high school in Milan and in Manchester, he earned a degree from the University of Oxford in 1996[5] and a master's degree from the University of Cambridge in 1997.[5] At University College, Oxford,[6] he studied Philosophy, Politics, and Economics,[4] specialising in Latin America and eastern Europe.[7] While at Oxford, he was a member of the Oxford University L'Chaim Society.[8]
 As of 1998, he was a researcher at the Centre for Social Studies (CESOC) in Santiago, Chile.[9]
 In an article published in the British academic journal Democratization in 1998, he focused in particular on how the US embargo against Cuba helps create "empathy" by third parties towards Cuba, which is then domestically perceived as support towards Cuba's regime.  He argued, hence, that the US Government - in addition to the embargo's direct influence on supporting Cuba's regime - indirectly inhibits potentially constructive pressures towards change, insofar as third countries, foreign non-governmental organizations and prominent individuals lend support to Cuba's resistance to the US embargo, and this offsets external pressures to democratize, thereby allowing the Cuban regime to convert such "empathy" into a source of legitimacy at home.[9]
-His scholarly work on internal Cuban politics, notably on the 1996 purge of Havana's Centre for American Studies (CEA) (contained in the book "El Caso CEA" published in 1998), has been the object of academic reviews, as it exposed the internal conflicts between Cuba's political apparatus and the country's intelligentsia, previously unknown.[10][11][12] According to some reviews the book, a work of investigative journalism complemented by academic analysis, dealt a strong blow to hard-liners within the regime[10][13][14] by exposing for the first time the internal conflicts between Cuba's apparatus and its intelligentsia.[15] In 2001 Cuban exiled scholars Alberto Álvarez and Gerardo González, who were among those purged from the CEA, wrote the book "¿ Intelectuales vs. Revolución ?  El caso del Centro de Estudios sobre América", which strongly built upon Giuliano's book[15] to offer further insights on relations between Cuba's political apparatus and the country's intellectuals. Along with these two scholars and Giuliano, Cuban sociologist Haroldo Dilla Alfonso 
+His scholarly work on internal Cuban politics, notably on the 1996 purge of Havana's Centre for American Studies (CEA) (contained in the book "El Caso CEA" published in 1998), has been the object of academic reviews, as it exposed the internal conflicts between Cuba's political apparatus and the country's intelligentsia, previously unknown.[10][11][12] According to some reviews the book, a work of investigative journalism complemented by academic analysis, dealt a strong blow to hard-liners within the regime[10][13][14] by exposing for the first time the internal conflicts between Cuba's apparatus and its intelligentsia.[15] In 2001 Cuban exiled scholars Alberto Р“Рѓlvarez and Gerardo GonzР“РЋlez, who were among those purged from the CEA, wrote the book "Р’С— Intelectuales vs. RevoluciР“С–nР’В ?  El caso del Centro de Estudios sobre AmР“В©rica", which strongly built upon Giuliano's book[15] to offer further insights on relations between Cuba's political apparatus and the country's intellectuals. Along with these two scholars and Giuliano, Cuban sociologist Haroldo Dilla Alfonso 
 expressed the view that the purge mechanisms described in Giuliano's book have been a key pillar for the regime's ability to prevent the rise of reformers,[16][17] and that such dynamics remain in place as late as 2016.[18]
 Besides work on Cuba, other countries Giuliano covered in his journalistic work include East Timor[19] and Myanmar (Burma).[20][21][22] In 1993 he worked for the Austrian weekly magazine Profil, for which he interviewed Mikhail Gorbachev, who expressed criticism at the reforms carried out by Russian president Boris Yeltsin: when Yeltsin called a referendum for 25 April 1993 in an attempt to achieve even greater powers as president, Gorbachev told Giuliano that he would not vote and instead advocated for new presidential elections.[23]
-In 2000, he visited North Korea and published an essay about his visit, essentially describing his tour around the country as a mise en scène by the North Korean authorities.[24]
+In 2000, he visited North Korea and published an essay about his visit, essentially describing his tour around the country as a mise en scР“РЃne by the North Korean authorities.[24]
 In his journalistic work, he reportedly ran into problems with the authorities of at least two countries.  On 16 August 1998 he was denied entry to Myanmar after making contact with the National League for Democracy and meeting its leader Aung San Suu Kyi,[20][21][22][25][26][27] with Myanmar authorities accusing him of falsely claiming to be a tourist[28] and of "illegally gathering news",[29][30] which prompted condemnations by organizations such as the International Federation of Journalists and Reporters without Borders;[31] only in 2013 Giuliano managed to return to Myanmar and also meet Suu Kyi.[32] While on 30 October 2002, he was reportedly detained and manhandled by Israeli authorities while crossing the Allenby Bridge, which also prompted condemnation by Reporters without Borders.[33] Giuliano however describes his worst authorities-related odyssey as he was travelling in 2003 around the South Pacific, where authorities in New Zealand and some South Pacific islands reportedly caused serious hindrance to his movements for the simple fact that he appeared to be suspicious because of his strange travel patterns.[34]
 Giuliano's writings have also included lighter topics.  During his time in Kabul, for example, he wrote restaurant reviews for a local English-language magazine.[35]
 In the early 2000s, Giuliano was a consultant for the Italian Senate's Committee on Human Rights.[36] At that time, some his writings were intended to influence the positions of the Italian Government on certain human rights issues, as was the case with material that he wrote on North Korea.[37]
@@ -21,28 +21,25 @@ On 20 February 2004, he arrived in Suriname on a Brazilian airliner,[34] thereby
 He then travelled from Suriname to London, with 42 passports (30 Italian and 12 British) filled with immigration stamps, in order to prove his record with Guinness World Records.[7][111] He claimed that most of his travels were unrelated to the record, and that only since 2001, on the suggestion of friends, he had the Guinness Record in mind when planning his travels.[4] In explaining his record, however, he stated that he might be affected by an "addiction to crossing borders".[1]
 
 
-
-
-
-
-
-
-
-
-
 TEG FOUNDER:
 #Italian
+#UNITED_NATIONS
+#GUINNESS_BOOK
 #University
 #Oxford
 #Cambridge
 #Europe
+#OXFORD_UNIVERSITY
 #British
 #US
 #Burma
+#MIKHAIL_GORBACHEV
 #Russian
 #North
 #Korean
+#AUNG_SAN_SUU_KYI
 #Israeli
+#NEW_ZEALAND
 #Senate
 #Western
 #United

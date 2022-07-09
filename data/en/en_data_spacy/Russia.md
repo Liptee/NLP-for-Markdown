@@ -28,11 +28,19 @@ The Kremlin decree authorizing the local authorities to grant Russian passports 
 
 
 
+
+
+
+
+
+
+
+
 TEG FOUNDER:
 #MOSCOW
 #KHERSON
 #UKRAINE
 #RUSSIA
-#VLADIMIRPUTIN
-#SOVIETUNION
+#VLADIMIR_PUTIN
+#SOVIET_UNION
 #KREMLIN

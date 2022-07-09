@@ -6,13 +6,5 @@ Timothy Berners-Lee is an English computer scientist best known as the inventor 
 
 
 
-
-
-
-
-
-
-
-
 TEG FOUNDER:
-#THEUNIVERSITYOFOXFORD
+#THE_UNIVERSITY_OF_OXFORD

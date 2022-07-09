@@ -7,12 +7,8 @@
         "id": "66fd4a37ddc483f2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Russia.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Russia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +85,15 @@
   },
   "active": "66fd4a37ddc483f2",
   "lastOpenFiles": [
-    "Russia.md",
+    "HTML.md",
+    "Michael Joseph.md",
+    "Tim Berners-Lee.md",
     "CERN.md",
+    "Video tracking.md",
+    "HTTP.md",
+    "Russia.md",
     "George Harrison[nb.md",
     "Computer vision.md",
-    "Guinness World.md",
-    "Sir James.md",
-    "Sir Richard.md",
-    "Video tracking.md",
-    "Ukraine.md",
-    "Tim Berners-Lee.md"
+    "Guinness World.md"
   ]
 }

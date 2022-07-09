@@ -1,10 +1,10 @@
 Guinness World Records, known from its inception in 1955 until 1999 as The Guinness Book of Records and in previous United States editions as The Guinness Book of World Records, is a reference book published annually, listing world records both of human achievements and the extremes of the natural world. The brainchild of Sir Hugh Beaver, the book was co-founded by twin brothers Norris and Ross McWhirter in Fleet Street, London, in August 1955.
 The first edition topped the best-seller list in the United Kingdom by Christmas 1955.[3] The following year the book was launched internationally, and as of the 2022 edition, it is now in its 67th year of publication, published in 100 countries and 23 languages, and maintains over 53,000 records in its database.
 The international franchise has extended beyond print to include television series and museums. The popularity of the franchise has resulted in Guinness World Records becoming the primary international authority on the cataloguing and verification of a huge number of world records.[4][5] The organisation employs record adjudicators to verify the authenticity of the setting and breaking of records.
-On 10 November 1951, Sir Hugh Beaver, then the managing director of the Guinness Breweries,[6] went on a shooting party in the North Slob, by the River Slaney in County Wexford, Ireland. After missing a shot at a golden plover, he became involved in an argument over which was the fastest game bird in Europe, the golden plover or the red grouse – it is the plover.[7] That evening at Castlebridge House, he realised that it was impossible to confirm in reference books whether or not the golden plover was Europe's fastest game bird.[8][9] Beaver knew that there must have been numerous other questions debated nightly among the public, but there was no book in the world with which to settle arguments about records. He realised then that a book supplying the answers to this sort of question might prove successful.[10] Beaver's idea became reality when Guinness employee Christopher Chataway recommended university friends Norris and Ross McWhirter, who had been running a fact-finding agency in London.[11] The twin brothers were commissioned to compile what became The Guinness Book of (Superlatives and now) Records, in August 1954. A thousand copies were printed and given away.[12]
-After the founding of The Guinness Book of Records office at the top of Ludgate House, 107 Fleet Street, London, the first 198-page edition was bound on 27 August 1955 and went to the top of the British best-seller list by Christmas.[3] The following year, it was introduced into the United States by New York publisher David Boehm and sold 70,000 copies.[13] Since then, Guinness World Records has sold more than 100 million copies in 100 countries and 37 languages.[14]
-Because the book became a surprise hit, many further editions were printed, eventually settling into a pattern of one revision a year, published in September/October, in time for Christmas. The McWhirters continued to compile it for many years. Both brothers had an encyclopedic memory; on the BBC television series Record Breakers, based upon the book, they would take questions posed by children in the audience on various world records and were able to give the correct answer. Ross McWhirter was assassinated by two members of the Provisional Irish Republican Army in 1975 for offering a £50,000 reward for their capture.[15] Following Ross's assassination, the feature in the show where questions about records posed by children were answered was called Norris on the Spot. Norris carried on as the book's sole editor.[11]
-Guinness Superlatives, later Guinness World Records Limited, was formed in 1954 to publish the first book. Sterling Publishing owned the rights to the Guinness book in the US for decades until it was repurchased by Guinness in 1989 after an 18-month long lawsuit.[13] The group was owned by Guinness PLC and subsequently Diageo until 2001, when it was purchased by Gullane Entertainment for $65 million.[16] Gullane was itself purchased by HIT Entertainment in 2002. In 2006, Apax Partners purchased HIT and subsequently sold Guinness World Records in early 2008 to the Jim Pattison Group, the parent company of Ripley Entertainment, which is licensed to operate Guinness World Records' Attractions. With offices in New York City and Tokyo, Guinness World Records' global headquarters remain in London, while its museum attractions are based at Ripley headquarters in Orlando, Florida, US.
+On 10 November 1951, Sir Hugh Beaver, then the managing director of the Guinness Breweries,[6] went on a shooting party in the North Slob, by the River Slaney in County Wexford, Ireland. After missing a shot at a golden plover, he became involved in an argument over which was the fastest game bird in Europe, the golden plover or the red grouse РІР‚вЂњ it is the plover.[7] That evening at Castlebridge House, he realised that it was impossible to confirm in reference books whether or not the golden plover was Europe's fastest game bird.[8][9] Beaver knew that there must have been numerous other questions debated nightly among the public, but there was no book in the world with which to settle arguments about records. He realised then that a book supplying the answers to this sort of question might prove successful.[10] Beaver's idea became reality when Guinness employee Christopher Chataway recommended university friends Norris and Ross McWhirter, who had been running a fact-finding agency in London.[11] The twin brothers were commissioned to compile what became The Guinness Book of (Superlatives and now) Records, in August 1954. A thousand copies were printed and given away.[12]
+After the founding of The Guinness Book of Records office at the top of Ludgate House, 107 Fleet Street, London, the first 198-page edition was bound on 27 August 1955 and went to the top of the British best-seller list by Christmas.[3] The following year, it was introduced into the United States by New York publisher David Boehm and sold 70,000 copies.[13] Since then, Guinness World Records has sold more than 100Р’В million copies in 100 countries and 37 languages.[14]
+Because the book became a surprise hit, many further editions were printed, eventually settling into a pattern of one revision a year, published in September/October, in time for Christmas. The McWhirters continued to compile it for many years. Both brothers had an encyclopedic memory; on the BBC television series Record Breakers, based upon the book, they would take questions posed by children in the audience on various world records and were able to give the correct answer. Ross McWhirter was assassinated by two members of the Provisional Irish Republican Army in 1975 for offering a Р’Р€50,000 reward for their capture.[15] Following Ross's assassination, the feature in the show where questions about records posed by children were answered was called Norris on the Spot. Norris carried on as the book's sole editor.[11]
+Guinness Superlatives, later Guinness World Records Limited, was formed in 1954 to publish the first book. Sterling Publishing owned the rights to the Guinness book in the US for decades until it was repurchased by Guinness in 1989 after an 18-month long lawsuit.[13] The group was owned by Guinness PLC and subsequently Diageo until 2001, when it was purchased by Gullane Entertainment for $65Р’В million.[16] Gullane was itself purchased by HIT Entertainment in 2002. In 2006, Apax Partners purchased HIT and subsequently sold Guinness World Records in early 2008 to the Jim Pattison Group, the parent company of Ripley Entertainment, which is licensed to operate Guinness World Records' Attractions. With offices in New York City and Tokyo, Guinness World Records' global headquarters remain in London, while its museum attractions are based at Ripley headquarters in Orlando, Florida, US.
 Recent editions have focused on record feats by individuals. Competitions range from obvious ones such as Olympic weightlifting to the longest egg tossing distances, or for longest time spent playing Grand Theft Auto IV or the number of hot dogs that can be consumed in three minutes.[17] Besides records about competitions, it contains such facts such as the heaviest tumour,[18] the most poisonous fungus,[19] the longest-running soap opera[20] and the most valuable life-insurance policy,[21] among others. Many records also relate to the youngest people to have achieved something, such as the youngest person to visit all nations of the world, currently held by Maurizio Giuliano.[22]
 Each edition contains a selection of the records from the Guinness World Records database, as well as select new records, with the criteria for inclusion changing from year to year.[23]
 The retirement of Norris McWhirter from his consulting role in 1995 and the subsequent decision by Diageo Plc to sell The Guinness Book of Records brand have shifted the focus of the books from text-oriented to illustrated reference. A selection of records are curated for the book from the full archive but all existing Guinness World Records titles can be accessed by creating a login on the company's website. Applications made by individuals for existing record categories are free of charge. There is an administration fee of $5 to propose a new record title.[24]
@@ -37,29 +37,30 @@ A video game, Guinness World Records: The Video Game, was developed by TT Fusion
 
 
 
-
-
-
-
-
-
-
-
 TEG FOUNDER:
 #Guinness
+#GUINNESS_BOOK
+#UNITED_STATES
 #London
+#UNITED_KINGDOM
 #Christmas
 #Ireland
 #Europe
 #British
+#NEW_YORK
 #BBC
 #Ross
 #US
+#NEW_YORK_CITY
 #Tokyo
 #Queens
 #NBC
+#ALL_TIME
 #Australia
+#SAUDI_ARABIA
 #Western
+#SAN_FRANCISCO
+#LAS_VEGAS
 #Hollywood
 #Tennessee
 #House
