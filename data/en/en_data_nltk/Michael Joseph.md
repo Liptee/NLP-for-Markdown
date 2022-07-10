@@ -111,6 +111,8 @@ In 1989, Jackson's annual earnings from album sales, endorsements, and concerts 
 In 2013, the executors of Jackson's estate filed a petition in the United States Tax Court as a result of a dispute with the Internal Revenue Service (IRS) over US federal estate taxes.[509] The executors claim that it was worth about $7Р’В million, the IRS that it was worth over $1.1Р’В billion. In February 2014, the IRS reported that Jackson's estate owed $702Р’В million; $505Р’В million in taxes, and $197Р’В million in penalties.[510] A trial was held from February 6 to 24, 2017.[511] In 2021, the Tax Court issued a ruling in favor of the estate, ruling that the estate's total combined value of the estate was $111.5 million and that the value of Jackson's name and likeness was $4 million (not the $61 million estimated by the IRS's outside expert witness).[512]
 
 
+
+
 TEG FOUNDER:
 #Michael
 #American

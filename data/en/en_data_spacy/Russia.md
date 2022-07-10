@@ -36,6 +36,7 @@ The Kremlin decree authorizing the local authorities to grant Russian passports 
 
 
 
+
 TEG FOUNDER:
 #MOSCOW
 #KHERSON

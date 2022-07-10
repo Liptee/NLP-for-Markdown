@@ -134,6 +134,8 @@ Credited with more number ones in the UK than any other artist, McCartney has pa
 In July 2005, McCartney's performance of "Sgt. Pepper's Lonely Hearts Club Band" with U2 at Live 8 became the fastest-released single in history. Available within forty-five minutes of its recording, hours later it had achieved number one on the UK Official Download Chart.[178]
 
 
+
+
 TEG FOUNDER:
 #Sir
 #English

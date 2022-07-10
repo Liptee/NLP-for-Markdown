@@ -7,6 +7,8 @@ Some Orthodox patrons became concerned about the direction of the group and the 
 Many of the Oxford University students who were elected presidents of the society ended up becoming international public figures. For example, presidents of the society included American Baptist Rhodes Scholar and future U.S. Senator Cory Booker, Israeli Ambassador Ron Dermer, Israeli language revivalist Ghil'ad Zuckermann, and American Mormon and future president of Southern Utah University Michael Benson.[8][15][6][14][16][12]
 
 
+
+
 TEG FOUNDER:
 #OXFORD_UNIVERSITY
 #University

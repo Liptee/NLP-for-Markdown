@@ -87,6 +87,8 @@ A physical neural network or Neuromorphic computer  is a type of artificial neur
 Embedded Machine Learning is a sub-field of machine learning, where the machine learning model is run on embedded systems with limited computing resources such as wearable computers, edge devices and microcontrollers.[129][130][131] Running machine learning model in embedded devices removes the need for transferring and storing data on cloud servers for further processing, henceforth, reducing data breaches and privacy leaks happening because of transferring data, and also minimizes theft of intellectual properties, personal data and business secrets. Embedded Machine Learning could be applied through several techniques including hardware acceleration,[132][133] using approximate computing,[134] optimization of machine learning models and many more.[135][136]
 
 
+
+
 TEG FOUNDER:
 #Machine
 #IBM

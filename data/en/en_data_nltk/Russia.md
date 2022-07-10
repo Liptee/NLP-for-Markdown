@@ -15,6 +15,8 @@ The Russian army conquered most of the Kherson region at the start of its Februa
 The Kremlin decree authorizing the local authorities to grant Russian passports to local residents also concerned the nearby Zaporizhzhia region partly controlled by Moscow's forces.
 
 
+
+
 TEG FOUNDER:
 #Kherson
 #Ukraine

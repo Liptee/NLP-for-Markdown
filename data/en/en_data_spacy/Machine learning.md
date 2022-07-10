@@ -108,6 +108,7 @@ Embedded Machine Learning is a sub-field of machine learning, where the machine 
 
 
 
+
 TEG FOUNDER:
 #ML
 #IBM

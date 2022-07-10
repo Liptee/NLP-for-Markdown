@@ -67,6 +67,8 @@ The world's chemical weapons watchdog said Friday it was keeping a close eye on 
 Putin has said that whatВ RussiaВ calls its special military operation is meant to "de-Nazify" Ukraine, suggesting he is merely taking territory back.
 
 
+
+
 TEG FOUNDER:
 #Ukrainian
 #Russian

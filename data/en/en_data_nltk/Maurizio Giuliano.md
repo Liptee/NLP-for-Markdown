@@ -21,6 +21,8 @@ On 20 February 2004, he arrived in Suriname on a Brazilian airliner,[34] thereby
 He then travelled from Suriname to London, with 42 passports (30 Italian and 12 British) filled with immigration stamps, in order to prove his record with Guinness World Records.[7][111] He claimed that most of his travels were unrelated to the record, and that only since 2001, on the suggestion of friends, he had the Guinness Record in mind when planning his travels.[4] In explaining his record, however, he stated that he might be affected by an "addiction to crossing borders".[1]
 
 
+
+
 TEG FOUNDER:
 #Italian
 #UNITED_NATIONS

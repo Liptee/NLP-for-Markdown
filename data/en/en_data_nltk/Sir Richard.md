@@ -85,6 +85,8 @@ Starr has received praise from critics and movie industry professionals regardin
 Starr played the Pope in Ken Russell's Lisztomania (1975), and a fictionalised version of himself in McCartney's Give My Regards to Broad Street in 1984.[322] Starr appeared as himself and a downtrodden alter-ego Ognir Rrats in Ringo (1978), an American-made television comedy film based loosely on The Prince and the Pauper.[323] For the 1979 documentary film on the Who, The Kids Are Alright, Starr appeared in interview segments with fellow drummer Keith Moon.[324]
 
 
+
+
 TEG FOUNDER:
 #Sir
 #RINGO_STARR

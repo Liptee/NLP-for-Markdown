@@ -35,6 +35,8 @@ Edward Godwin, fellow architect and close friend of Burges, wrote of Burges's un
 A renewed understanding and appreciation of the building, and of Burges himself, began with Charles Handley-Read's essay on Burges in Peter Ferriday's collection Victorian Architecture, published in 1963.[82] In 1966 Handley-Read followed this with a substantial article on the house for Country Life, "Aladdin's Palace in Kensington".[50] His notes on Burges formed the basis of Mordaunt Crook's centenary volume, William Burges and the High Victorian Dream, published in 1981 and revised and reissued in 2013, in which Crook wrote at length on both the Tower House and its contents.[83]
 
 
+
+
 TEG FOUNDER:
 #Chelsea
 #London

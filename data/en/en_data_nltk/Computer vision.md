@@ -47,6 +47,8 @@ Egocentric vision systems are composed of a wearable camera that automatically t
 
 
 
+
+
 TEG FOUNDER:
 #Computer
 #Markov

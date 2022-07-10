@@ -23,6 +23,8 @@ The two countries previously agreed to establish two more direct communication l
 Lee and Wei agreed that the operation of additional hotlines will РІР‚Сљgreatly contribute to preventing accidental clashes between armed forces of the two countriesРІР‚Сњ and attached the great significance to the decision, according to South KoreaРІР‚в„ўs defense ministry.  
 
 
+
+
 TEG FOUNDER:
 #Korean
 #Chinese

@@ -22,6 +22,8 @@ West End Blues, British Parlophone record
 The labels shown here include those used for 78s and LPs. The label design for 7" singles had the same standard template as several other EMI labels, with the large "45" insignia to the right. In recent years, design uniformity has relaxed from release to release.
 
 
+
+
 TEG FOUNDER:
 #PARLOPHONE_RECORDS
 #British

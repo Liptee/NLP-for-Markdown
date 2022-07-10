@@ -97,6 +97,8 @@ The LennonРІР‚вЂњMcCartney songwriting partnership is regarded as one of
 Participants in a 2002 BBC poll voted him eighth of "100 Greatest Britons".[337] Between 2003 and 2008, Rolling Stone recognised Lennon in several reviews of artists and music, ranking him fifth of "100 Greatest Singers of All Time"[338] and 38th of "100 Greatest Artists of All Time",[339] and his albums John Lennon/Plastic Ono Band and Imagine, 22nd and 76th respectively of "Rolling Stone's 500 Greatest Albums of All Time".[339][340] He was appointed Member of the Order of the British Empire (MBE) with the other Beatles in 1965, but returned his medal in 1969 because of "Britain's involvement in the Nigeria-Biafra thing, against our support of America in Vietnam, and against Cold Turkey slipping down the charts".[341][342] Lennon was posthumously inducted into the Songwriters Hall of Fame in 1987[343] and into the Rock and Roll Hall of Fame in 1994.[344]
 
 
+
+
 TEG FOUNDER:
 #John
 #English
